@@ -127,7 +127,7 @@ When FileMode is set to `1`, the folder is automatically zipped before transfer.
 
 ## 🧾 License
 
-MIT © [Your Name]
+MIT © Muzzii255
 
 ---
 
