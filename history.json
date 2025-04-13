@@ -1,0 +1,15 @@
+{
+  "paths": [
+    "./test_folder"
+  ],
+  "targets": [
+    "/home/scp_test"
+  ],
+  "users": [
+    "root",
+    "adminitration"
+  ],
+  "addresses": [
+    "192.168.1.1"
+  ]
+}
